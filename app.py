@@ -1,4 +1,7 @@
+# Imports
 import pygame
+
+# Global Variables
 screensize=(1024, 650)
 game_running = True
 surface=pygame.display.set_mode(screensize)
